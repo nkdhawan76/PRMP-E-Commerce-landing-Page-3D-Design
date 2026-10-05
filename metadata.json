@@ -1,0 +1,6 @@
+{
+  "name": "prmpt Archive",
+  "description": "Full-screen scroll-driven fashion archive and interactive collection landing page for prmpt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
